@@ -39,10 +39,16 @@ jupyter notebook
 3. Run the file:
 SmartNode_POC.ipynb
 
-## 🚀 Future Improvements
-- Deploy as a web application
-- Improve accuracy using advanced models (like BERT)
-- Real-time call processing
+## 🚀 Future Improvements## 🚀 Future Improvements
+
+- **Speaker Diarization:** Identify and separate multiple speakers in customer call recordings.
+- **Advanced Sentiment Analysis:** Analyze customer emotions and satisfaction levels from call transcripts.
+- **Real-Time Call Classification:** Classify calls as Open, Urgent, or Closed with improved accuracy and faster processing.
+- **Enhanced NLP Models:** Explore advanced NLP and transformer-based models to improve text understanding and classification performance.
+- **Interactive Analytics Dashboard:** Add detailed insights, trend analysis, and date-wise call filtering.
+- **Automated Call Summarization:** Generate concise summaries of customer conversations and highlight key issues.
+- **Cloud-Based Audio Processing:** Improve audio upload and transcription workflows for easier access through the deployed Streamlit application.
+- **Model Performance Optimization:** Continuously evaluate and improve classification accuracy, precision, recall, and F1-score.
 
 ## 🙋‍♀️ Author
 Khushbu Prajapati
