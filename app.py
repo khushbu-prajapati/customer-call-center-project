@@ -43,8 +43,8 @@ except LookupError:
 # LOAD TRAINED MODEL
 # ============================================================
 
-MODEL_PATH = "./models/call_classifier.pkl"
-TFIDF_PATH = "./models/tfidf_vectorizer.pkl"
+MODEL_PATH = "./call_classifier.pkl"
+TFIDF_PATH = "./tfidf_vectorizer.pkl"
 
 try:
     model = joblib.load(MODEL_PATH)
